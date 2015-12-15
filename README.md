@@ -72,4 +72,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/gabrie
 
 ## License
 
-This project is licenced under the MIT license, see [LICENSE](LICENSE) for details.
+This work is under a GPL v3 license.
